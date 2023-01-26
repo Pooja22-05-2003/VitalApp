@@ -2,6 +2,8 @@
 
 VitalApp having login page in flutter using firebase .
 --> User can login through email id and password.
+
+
 --> Google sign in also availabe in this App.
 
 
