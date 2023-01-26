@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467830168831",
+    "project_id": "vitalapp-e45ec",
+    "storage_bucket": "vitalapp-e45ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467830168831:android:06bbf87721544463ec00ca",
+        "android_client_info": {
+          "package_name": "com.example.sky_way_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467830168831-vl1sgmeag1hdeskbooucqson5mnan9kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sky_way_app",
+            "certificate_hash": "ff04d7d318da9ccdace8eaa246ec5abc06364c66"
+          }
+        },
+        {
+          "client_id": "467830168831-0ef4bmodiafhelrnpdbck14r2k6qgfo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28-IkmmCOl3AHWvXtU0dpwngNiDqzXug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467830168831-0ef4bmodiafhelrnpdbck14r2k6qgfo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
